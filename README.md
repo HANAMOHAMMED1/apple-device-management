@@ -1,4 +1,4 @@
-# # Apple Device Management System
+ # Apple Device Management System
 
 A database project developed using MySQL to manage Apple devices and their related information.
 
